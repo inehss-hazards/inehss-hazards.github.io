@@ -3,7 +3,7 @@
  "short_name": "INEHSS Plateau",
  "start_url": "./?launch=app",
  "scope": "./",
- "display": "browser",
+ "display": "minimal-ui",
  "background_color": "#1F4E5F",
  "theme_color": "#1F4E5F",
  "icons": [
