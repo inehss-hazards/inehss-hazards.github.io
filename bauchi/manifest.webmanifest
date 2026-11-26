@@ -1,0 +1,23 @@
+{
+ "name": "INEHSS Hazard Signals \u2013 Bauchi State",
+ "short_name": "INEHSS Bauchi",
+ "start_url": "./?launch=app",
+ "scope": "./",
+ "display": "browser",
+ "background_color": "#1F4E5F",
+ "theme_color": "#1F4E5F",
+ "icons": [
+  {
+   "src": "../icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "../icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
